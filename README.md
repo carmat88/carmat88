@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TechCarmat
+- 👋 Hi, I’m TechCarmat
 - 👀 I’m interested in application of AI for solving the challenges of our modern societies. 
 - 🌱 I’m currently learning: Scientific Computing, Data Analisys, Data visualization and Machine Learning with Pyton
 - 💞️ I’m avalaible for hiring and looking to collaborate on AI applications.
