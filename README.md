@@ -1,6 +1,6 @@
 - 👋 Hi, I’m TechCarmat
 - 👀 I’m interested in application of AI for solving the challenges of our modern societies. 
-- 💞️ I’m currently collaborating with Scaleout Systems AB on AI applications.
+- 💞️ I’ve recently collaborated with Scaleout Systems AB on AI applications.
 - 📫 You can reach me at: techcarmat@pm.me
 
 <!---
